@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-This repository aims to showcase my journey as I dive deeper into the world of microcontrollers and embedded software engineering. 
+This repository aims to showcase my journey as a person, as a student, and as a professional with a lifelong passion for learning and continued education.
 
 ## Table of Contents
 
