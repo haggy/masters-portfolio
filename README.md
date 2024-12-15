@@ -44,6 +44,8 @@ I excelled in my new role. The role allowed me to exercise my analytical and cri
 I ultimately decided that I wanted to ignore my father's negative outlook on higher education. I learned about the financial aid available to someone like myself and began to put myself through college. I did not initially choose CS as my major. I initially chose Electrical Engineering but later changed to CS after taking several programming courses. I graduated from the University of Massachusetts, Boston with a BS in Computer Science. 
 
 
+WIP. More to come...
+
 ## What Motivates Me
 
 Coming soon...
