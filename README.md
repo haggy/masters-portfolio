@@ -5,9 +5,11 @@ This repository aims to showcase my journey as I dive deeper into the world of m
 ## Table of Contents
 
 - [Who is Dave?](#who-is-dave)
-  1. [My Background](#my-background)
-  2. [What Motivates Me](#what-motivates-me)
-  3. [What Areas I Enjoy the Most](#what-areas-i-enjoy-the-most)
+  1. [My Early Years](#my-early-years)
+  2. [Soon After High School](#soon-after-high-school)
+  3. [Computer Science: A Love Story](#computer-science-a-love-story)
+  4. [What Motivates Me](#what-motivates-me)
+  5. [What Areas I Enjoy the Most](#what-areas-i-enjoy-the-most)
 
 # Who is Dave?
 
@@ -24,7 +26,7 @@ You are required to visit every shop in a vocational high school during your fre
 
 I chose Plumbing and performed very well. I spent my senior year on co-op working for a top-rated plumbing company in Malden, MA which is an honor that only top senior students are granted. After graduation, I accepted a full-time position with that same company as an apprentice plumber with nearly 1 year of experience out of high school. I continued to work for roughly one year before deciding that I simply did not have any passion for the plumbing trade. I took a hard look at my life and made the difficult decision to move away from a field I knew to find a field that I truly loved. Passion has always been a primary motivator for me. When I'm passionate about a subject, I can effortlessly apply myself at the deepest levels. The search to find work that I was truly passionate about had begun.
 
-## Soon After High-School 
+## Soon After High School 
 I had always had a love for computers. I took a job as a retail employee at a now defunct company called [CompUSA](https://en.wikipedia.org/wiki/CompUSA). It was there that I discovered the field of PC repair. I slowly introduced myself to the field through networking with repair techs at the store, and decided that I wanted to join their team. I went to my local [Barnes and Noble](https://en.wikipedia.org/wiki/Barnes_%26_Noble) book store and picked up as many PC repair books as I could afford. I ended up obtaining the [A+](https://en.wikipedia.org/wiki/CompTIA#Professional_level_certifications) and [Network+](https://en.wikipedia.org/wiki/CompTIA#Professional_level_certifications) certifications from [CompTIA](https://en.wikipedia.org/wiki/CompTIA) and got a job as a repair tech.
 
 After some time working at CompUSA, I decided to take a position at a local [Circuit City](https://en.wikipedia.org/wiki/Circuit_City) store, tasked with being one of the first employees of that location's [Firedog](https://en.wikipedia.org/wiki/Circuit_City#Firedog) PC repair shop. I had to adapt quickly. Not only was I responsible for fixing most computers that came through the "CCity" doors, I also had to help bootstrap that location from the ground up. Most customers did not know what Firedog was and we received very little help from the corporate offices on how to run the PC repair locations. I applied what I knew as well as learning whatever I could in order to create a professional repair shop environment. I even went so far as to prepare and paint the room that we would use to repair machines that customers brought in. The Firedog colors were black and very bright green. I never knew why those colors were chosen. 
@@ -42,10 +44,10 @@ I excelled in my new role. The role allowed me to exercise my analytical and cri
 I ultimately decided that I wanted to ignore my father's negative outlook on higher education. I learned about the financial aid available to someone like myself and began to put myself through college. I did not initially choose CS as my major. I initially chose Electrical Engineering but later changed to CS after taking several programming courses. I graduated from the University of Massachusetts, Boston with a BS in Computer Science. 
 
 
-## My Background
-
-
 ## What Motivates Me
 
+Coming soon...
 
 ## What Areas I Enjoy the Most
+
+Coming soon...
