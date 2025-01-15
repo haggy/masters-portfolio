@@ -8,8 +8,8 @@ This repository aims to showcase my journey as a person, as a student, and as a 
   1. [My Early Years](#my-early-years)
   2. [Soon After High School](#soon-after-high-school)
   3. [Dreams of Higher Education are Realized](#dreams-of-higher-education-are-realized)
-  4. [What Motivates Me](#what-motivates-me)
-  5. [What Areas I Enjoy the Most](#what-areas-i-enjoy-the-most)
+  4. [My Love of Computing: Evolved](#my-love-of-computing-evolved)
+  5. [What's Next?](#whats-next)
 
 # Who is Dave?
 
@@ -49,7 +49,7 @@ I researched everything I could about financial aid to understand what was avail
 
 I graduated from the University of Massachusetts, Boston with a BS in Computer Science. My journey to obtain an undergraduate degree was unorthodox but in retrospect, I would not change anything about it. The experiences I gained through life's hardships and hard-won accomplishments have molded me into a versatile and resilient professional with a life-long passion for learning. I thrive in the unknown and have a proven track record of identifying and solving complex problems utilizing a blend of theory, experimentation, and creative problem solving. 
 
-## My Love of Computing Evolved
+## My Love of Computing: Evolved
 
 While professionally I have been strictly in the software and computer science domain, personally I spend a lot of time learning and applying the fundamentals of electrical and computer engineering. The highly complex interaction between hardware and software fascinates me. It's magical, in a sense. Merging fundamental theories of physics with lumped abstractions to create real, physical components that can be combined in highly complex ways to create the machines that power the world and move humanity forward.
 
