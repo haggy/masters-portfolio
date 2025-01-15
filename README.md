@@ -1,13 +1,13 @@
 # Welcome to My Portfolio
 
-This repository aims to showcase my journey as a person, as a student, and as a professional with a lifelong passion for learning and continued education.
+This repository aims to showcase my journey as a person, as a student, and as a professional with a lifelong passion for learning and continued education in the fields of Computer Science and Electrical and Computer Engineering.
 
 ## Table of Contents
 
 - [Who is Dave?](#who-is-dave)
   1. [My Early Years](#my-early-years)
   2. [Soon After High School](#soon-after-high-school)
-  3. [Computer Science: A Love Story](#computer-science-a-love-story)
+  3. [Dreams of Higher Education are Realized](#dreams-of-higher-education-are-realized)
   4. [What Motivates Me](#what-motivates-me)
   5. [What Areas I Enjoy the Most](#what-areas-i-enjoy-the-most)
 
@@ -24,7 +24,7 @@ When it was time for me to attend high school, my family had convinced me to att
 
 You are required to visit every shop in a vocational high school during your freshman year. This is called the "exploratory period". During this time, you spend one week in every shop learning about the trade and essentially being sold on its benefits. As expected, there are some shops that are very popular. These include the primary trades of Electrical, Plumbing, HVAC, Carpentry, and Welding. In order to get into one of these shops, you must not only pass each exploratory shop, you must excel at them. Plumbing and Electrical were by far the most desired trades when I was in school. Plumbing was recommended by several family members, mostly because they believed that plumbers were highly valuable and received good pay for their work. I was much more passionate about electrical, welding, and computers, however 'passion' was not one of the core tenets of my family's decision making framework. 
 
-I chose Plumbing and despite not being my preferred option, performed very well. I spent my senior year on co-op working for a top-rated plumbing company in Malden, MA which is a priviledge that only top senior students are granted. After graduation, I accepted a full-time position with that same company as an apprentice plumber with nearly 1 year of experience out of high school. I continued to work for roughly one year before deciding that I simply did not have any desire to continue with the plumbing trade. I took a hard look at my life and made the difficult, and risky, decision to move away from a field I knew to find a field that I truly loved. Passion has always been a primary motivator for me. When I'm passionate about a subject, I can effortlessly apply myself at the deepest levels. The search to find work that I was truly passionate about had begun.
+I chose Plumbing and despite not being my preferred option, performed very well. I spent my senior year on co-op working for a top-rated plumbing company in Malden, MA which is a privilege that only top senior students are granted. After graduation, I accepted a full-time position with that same company as an apprentice plumber with nearly 1 year of experience out of high school. I continued to work for roughly one year before deciding that I simply did not have any desire to continue with the plumbing trade. I took a hard look at my life and made the difficult, and risky, decision to move away from a field I knew to find a field that I truly loved. Passion has always been a primary motivator for me. When I'm passionate about a subject, I can effortlessly apply myself at the deepest levels. The search to find work that I was truly passionate about had begun.
 
 ## Soon After High School 
 I had always had a love for computers. I took a job as a retail employee at a now defunct company called [CompUSA](https://en.wikipedia.org/wiki/CompUSA). It was there that I discovered the field of personal computer (PC) repair. I slowly introduced myself to the field through networking with repair techs at the store, and decided that I wanted to join their team. I went to my local [Barnes and Noble](https://en.wikipedia.org/wiki/Barnes_%26_Noble) book store and picked up as many PC repair books as I could afford. I ended up obtaining the [A+](https://en.wikipedia.org/wiki/CompTIA#Professional_level_certifications) and [Network+](https://en.wikipedia.org/wiki/CompTIA#Professional_level_certifications) certifications from [CompTIA](https://en.wikipedia.org/wiki/CompTIA) and got a job as a repair tech.
@@ -41,20 +41,27 @@ Shortly after I began work with Geek Squad, a tech I worked with graduated colle
 
 I excelled in my new role. The role allowed me to exercise my analytical and critical thinking skills in ways that I had never done before. It was addicting and I had a constant drive to learn more about the systems that I was supporting, along with the systems that were supporting those systems, etc. We used a popular [CRM](https://en.wikipedia.org/wiki/Customer_relationship_management) software to manage our support requests. All of the customizations for the platform were done in-house by a senior member of the support staff. He was eventually was promoted and left the support team. I quickly offered to fill the role and learn the system so that we could continue to customize it to our needs. This was my first taste of professional software development and it sparked a lifelong passion for the field. 
 
-## My Love for Computing had Evolved
+## Dreams of Higher Education are Realized
 
-Higher education was never presented to me as an attainable goal by any of my family or school advisors. 
+Higher education was never presented to me as an attainable goal by any of my family or grade school advisors. 
 
-I researched everything I could about financial aid to understand what was available and began to put myself through college. I initially chose Electrical Engineering but later changed to CS after taking several programming courses. I did not have a financial support system so I had to continue to work full time while attending university. While this added time and difficulty to the degree, I learned several very valuable lessons. First and foremost, the dedication put toward a goal directly correlates to the probability that you will achieve that goal. Secondly, it is likely that many people will question you while you are on your journey. 
+I researched everything I could about financial aid to understand what was available and began to put myself through college. I initially chose Electrical Engineering but later changed to Computer Science after taking several programming courses. I did not have a financial support system so I continued to work full time while attending university. While this added time and difficulty to the degree, I learned several very valuable lessons. First and foremost, the discipline applied to a goal directly correlates to the probability that you will achieve that goal. Secondly, it is likely that many people will question you while you are on your journey so it is vitally important that you understand the "why" behind your decisions. Lastly, never underestimate the power of a good network. I consistently worked directly with my professors and fellow students which contributed greatly to my success as a student. 
 
-I graduated from the University of Massachusetts, Boston with a BS in Computer Science. 
+I graduated from the University of Massachusetts, Boston with a BS in Computer Science. My journey to obtain an undergraduate degree was unorthodox but in retrospect, I would not change anything about it. The experiences I gained through life's hardships and hard-won accomplishments have molded me into a versatile and resilient professional with a life-long passion for learning. I thrive in the unknown and have a proven track record of identifying and solving complex problems utilizing a blend of theory, experimentation, and creative problem solving. 
+
+## My Love of Computing Evolved
+
+While professionally I have been strictly in the software and computer science domain, personally I spend a lot of time learning and applying the fundamentals of electrical and computer engineering. The highly complex interaction between hardware and software fascinates me. It's magical, in a sense. Merging fundamental theories of physics with lumped abstractions to create real, physical components that can be combined in highly complex ways to create the machines that power the world and move humanity forward.
+
+In my spare time, I have read multiple books and taken multiple courses online. I am finishing up a fantastic book called [Practical Electronics for Inventors](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541) which covers everything from circuit fundamentals to the theory and application of diodes, transistors, opamps, servo and stepper motors, and integrated circuits. I also purchased and queued up [The Art of Electronics](https://a.co/d/8BRuxCv), a true classic authored by Paul Horowitz and Winfield Hill. I have also utilized the fantastic library of electrical and computer engineering courses offered by [MITx](https://mitxonline.mit.edu/) and [edX](https://www.edx.org/) when offered.
+
+I apply what I learn through the design and development of sufficiently complex embedded systems. The two projects I'm most proud of are the [B&H Dry-Fire Integrated Training System](./projects/bh-firearm-training-system.md) and my current project, a [smart system for heavy-bag & boxing training](./projects/heavybag-boxing-training-system.md). Those links bring you to the project detail pages which give you an in-depth tour of how both myself and the projects evolved over time. 
 
 
+## What's Next?
 
-## What Motivates Me
+This brings us to current day. Professionally, I have worked in many codebases and faced a multitude of challenging and diverse problems. While I love what I do, something is missing. That "something", as I have slowly come to realize, is that I need to go deeper into the computer engineering field. I'm no longer satisfied at the "high-level" and have learned that I need to expose myself to the lowest levels of computing. Like I have said before, I love learning. I'm sure you're sick of reading that statement by now but it's true so my first step to accomplishing my goal is to seek out higher education specific to electrical and computer engineering. I believe I have the fundamental knowledge and skillsets required to succeed in a graduate computer engineering curriculum. 
 
-Coming soon...
+Therefore, I am formally applying to universities with strong ECE graduate programs. I hope this portfolio has portrayed my excitement and eagerness to get back into the classroom and labs to learn about a field that I truly love, and I welcome any and all questions through my primary communication channels specified on my application. Thank you very much for your consideration. 
 
-## What Areas I Enjoy the Most
 
-Coming soon...
